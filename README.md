@@ -1,3 +1,15 @@
+garydelancer-cybersecurity-portfolio/
+│
+├── README.md  ← Links to each project
+├── resume.pdf
+├── projects/
+│   ├── mb-business-policy-implementation/
+│   │   └── README.md
+│   ├── isec695-security-plan/
+│   │   └── README.md
+│   └── hospital-database-project/
+│       └── README.md
+
 # Gary Delancer – Cybersecurity Portfolio
 
 Welcome to my professional cybersecurity portfolio. This repository contains projects that highlight my skills in risk management, policy creation, secure system design, and hands-on IT practices.
