@@ -8,9 +8,9 @@ Welcome to my professional cybersecurity portfolio. This repository contains pro
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [Security Policy Implementation](./projects/mb-business-policy-implementation) | Created security policies for a simulated business, aligned with NIST standards. |
-| 🧰 [ISEC695: Security Planning for NSU Athletics](./projects/isec695-security-plan) | Developed a strategic contingency and incident response plan tailored for a university athletics department. |
-| 🧠 [Hospital Management Database (SQL)](./projects/hospital-database-project) | Designed a secure, normalized database schema and entity-relationship diagram for hospital systems. |
+| 🔐 [Security Policy Implementation](./mb-business-policy-implementation) | Created security policies for a simulated business, aligned with NIST standards. |
+| 🧰 [ISEC695: Security Planning for NSU Athletics](./isec695-security-plan) | Developed a strategic contingency and incident response plan tailored for a university athletics department. |
+| 🧠 [Hospital Management Database (SQL)](./hospital-database-project) | Designed a secure, normalized database schema and entity-relationship diagram for hospital systems. |
 
 
 ## 📄 [Resume](https://github.com/user-attachments/files/20699128/GaryDelancer.pdf)
