@@ -4,8 +4,8 @@ Welcome to my cybersecurity portfolio! I'm Gary Delancer, a graduate of Nova Sou
 
 ## 🔍 About Me
 - 🎓 Master's in Cybersecurity Management – Nova Southeastern University
-- 🧠 CompTIA A+ and Security+ Certified
-- 💻 Tools: Wireshark, Kali Linux, Metasploit, PowerShell, SQL
+- 🧠 CompTIA Network+ and Security+ Certified | CISSP or CISM Next
+- 💻 Tools: Wireshark, Kali Linux, Metasploit, PowerShell, SQL 
 - 🏢 Currently: Technical Specialist @ Apple
 
 ## 📁 Portfolio Projects
