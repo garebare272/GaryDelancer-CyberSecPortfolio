@@ -12,8 +12,8 @@ Welcome to my cybersecurity portfolio! I'm Gary Delancer, a graduate of Nova Sou
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [Security Policy Implementation](./src/mb-business-policy-implementation) | Created security policies for a simulated business, aligned with NIST standards. |
-| 🛡️ [ISEC695: Security Planning for NSU Athletics](./isec695-security-plan) | Developed a strategic contingency and incident response plan tailored for a university athletics department. |
+| 🔐 [Security Policy Implementation](./src/business-policy-implementation) | Created security policies for a simulated business, aligned with NIST standards. |
+| 🛡️ [ISEC695: Security Planning for NSU Athletics](./src/isec695-security-plan) | Developed a strategic contingency and incident response plan tailored for a university athletics department. |
 | 🧠 [Hospital Management Database (SQL)](./src/hospital-database-project) | Designed a secure, normalized database schema and entity-relationship diagram for hospital systems. |
 | 🌐 [Network Security Configuration Lab](./src/network-security-configuration-lab) | Set up and configured virtual network segments, firewall rules, and NAT/DHCP using pfSense and VirtualBox. |
 | 🎬 [Movie Club Project Simulator](./src/movie-club-project-simulator) | Simulated IT project lifecycle and documentation using realistic budgeting, scheduling, and stakeholder roles. |
